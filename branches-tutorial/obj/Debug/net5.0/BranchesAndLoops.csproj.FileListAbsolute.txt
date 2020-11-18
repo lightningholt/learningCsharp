@@ -1,0 +1,15 @@
+/Users/cholt/Google Drive/C#/learningCsharp/branches-tutorial/bin/Debug/net5.0/BranchesAndLoops.deps.json
+/Users/cholt/Google Drive/C#/learningCsharp/branches-tutorial/bin/Debug/net5.0/BranchesAndLoops.runtimeconfig.json
+/Users/cholt/Google Drive/C#/learningCsharp/branches-tutorial/bin/Debug/net5.0/BranchesAndLoops.runtimeconfig.dev.json
+/Users/cholt/Google Drive/C#/learningCsharp/branches-tutorial/bin/Debug/net5.0/BranchesAndLoops.dll
+/Users/cholt/Google Drive/C#/learningCsharp/branches-tutorial/bin/Debug/net5.0/ref/BranchesAndLoops.dll
+/Users/cholt/Google Drive/C#/learningCsharp/branches-tutorial/bin/Debug/net5.0/BranchesAndLoops.pdb
+/Users/cholt/Google Drive/C#/learningCsharp/branches-tutorial/obj/Debug/net5.0/BranchesAndLoops.csprojAssemblyReference.cache
+/Users/cholt/Google Drive/C#/learningCsharp/branches-tutorial/obj/Debug/net5.0/BranchesAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cholt/Google Drive/C#/learningCsharp/branches-tutorial/obj/Debug/net5.0/BranchesAndLoops.AssemblyInfoInputs.cache
+/Users/cholt/Google Drive/C#/learningCsharp/branches-tutorial/obj/Debug/net5.0/BranchesAndLoops.AssemblyInfo.cs
+/Users/cholt/Google Drive/C#/learningCsharp/branches-tutorial/obj/Debug/net5.0/BranchesAndLoops.csproj.CoreCompileInputs.cache
+/Users/cholt/Google Drive/C#/learningCsharp/branches-tutorial/obj/Debug/net5.0/BranchesAndLoops.dll
+/Users/cholt/Google Drive/C#/learningCsharp/branches-tutorial/obj/Debug/net5.0/ref/BranchesAndLoops.dll
+/Users/cholt/Google Drive/C#/learningCsharp/branches-tutorial/obj/Debug/net5.0/BranchesAndLoops.pdb
+/Users/cholt/Google Drive/C#/learningCsharp/branches-tutorial/obj/Debug/net5.0/BranchesAndLoops.genruntimeconfig.cache
