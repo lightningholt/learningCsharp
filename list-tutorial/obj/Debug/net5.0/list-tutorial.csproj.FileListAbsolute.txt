@@ -1,0 +1,15 @@
+/Users/cholt/Google Drive/C#/learningCsharp/list-tutorial/obj/Debug/net5.0/list-tutorial.csprojAssemblyReference.cache
+/Users/cholt/Google Drive/C#/learningCsharp/list-tutorial/obj/Debug/net5.0/list-tutorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cholt/Google Drive/C#/learningCsharp/list-tutorial/obj/Debug/net5.0/list-tutorial.AssemblyInfoInputs.cache
+/Users/cholt/Google Drive/C#/learningCsharp/list-tutorial/obj/Debug/net5.0/list-tutorial.AssemblyInfo.cs
+/Users/cholt/Google Drive/C#/learningCsharp/list-tutorial/obj/Debug/net5.0/list-tutorial.csproj.CoreCompileInputs.cache
+/Users/cholt/Google Drive/C#/learningCsharp/list-tutorial/bin/Debug/net5.0/list-tutorial.deps.json
+/Users/cholt/Google Drive/C#/learningCsharp/list-tutorial/bin/Debug/net5.0/list-tutorial.runtimeconfig.json
+/Users/cholt/Google Drive/C#/learningCsharp/list-tutorial/bin/Debug/net5.0/list-tutorial.runtimeconfig.dev.json
+/Users/cholt/Google Drive/C#/learningCsharp/list-tutorial/bin/Debug/net5.0/list-tutorial.dll
+/Users/cholt/Google Drive/C#/learningCsharp/list-tutorial/bin/Debug/net5.0/ref/list-tutorial.dll
+/Users/cholt/Google Drive/C#/learningCsharp/list-tutorial/bin/Debug/net5.0/list-tutorial.pdb
+/Users/cholt/Google Drive/C#/learningCsharp/list-tutorial/obj/Debug/net5.0/list-tutorial.dll
+/Users/cholt/Google Drive/C#/learningCsharp/list-tutorial/obj/Debug/net5.0/ref/list-tutorial.dll
+/Users/cholt/Google Drive/C#/learningCsharp/list-tutorial/obj/Debug/net5.0/list-tutorial.pdb
+/Users/cholt/Google Drive/C#/learningCsharp/list-tutorial/obj/Debug/net5.0/list-tutorial.genruntimeconfig.cache
