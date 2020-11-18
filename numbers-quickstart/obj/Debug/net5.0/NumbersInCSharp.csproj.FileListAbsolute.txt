@@ -1,0 +1,15 @@
+/Users/cholt/Google Drive/C#/numbers-quickstart/bin/Debug/net5.0/NumbersInCSharp.deps.json
+/Users/cholt/Google Drive/C#/numbers-quickstart/bin/Debug/net5.0/NumbersInCSharp.runtimeconfig.json
+/Users/cholt/Google Drive/C#/numbers-quickstart/bin/Debug/net5.0/NumbersInCSharp.runtimeconfig.dev.json
+/Users/cholt/Google Drive/C#/numbers-quickstart/bin/Debug/net5.0/NumbersInCSharp.dll
+/Users/cholt/Google Drive/C#/numbers-quickstart/bin/Debug/net5.0/ref/NumbersInCSharp.dll
+/Users/cholt/Google Drive/C#/numbers-quickstart/bin/Debug/net5.0/NumbersInCSharp.pdb
+/Users/cholt/Google Drive/C#/numbers-quickstart/obj/Debug/net5.0/NumbersInCSharp.csprojAssemblyReference.cache
+/Users/cholt/Google Drive/C#/numbers-quickstart/obj/Debug/net5.0/NumbersInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cholt/Google Drive/C#/numbers-quickstart/obj/Debug/net5.0/NumbersInCSharp.AssemblyInfoInputs.cache
+/Users/cholt/Google Drive/C#/numbers-quickstart/obj/Debug/net5.0/NumbersInCSharp.AssemblyInfo.cs
+/Users/cholt/Google Drive/C#/numbers-quickstart/obj/Debug/net5.0/NumbersInCSharp.csproj.CoreCompileInputs.cache
+/Users/cholt/Google Drive/C#/numbers-quickstart/obj/Debug/net5.0/NumbersInCSharp.dll
+/Users/cholt/Google Drive/C#/numbers-quickstart/obj/Debug/net5.0/ref/NumbersInCSharp.dll
+/Users/cholt/Google Drive/C#/numbers-quickstart/obj/Debug/net5.0/NumbersInCSharp.pdb
+/Users/cholt/Google Drive/C#/numbers-quickstart/obj/Debug/net5.0/NumbersInCSharp.genruntimeconfig.cache
