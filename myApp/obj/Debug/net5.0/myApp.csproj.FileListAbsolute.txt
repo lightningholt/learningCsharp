@@ -1,0 +1,15 @@
+/Users/cholt/Google Drive/C#/myApp/bin/Debug/net5.0/myApp.deps.json
+/Users/cholt/Google Drive/C#/myApp/bin/Debug/net5.0/myApp.runtimeconfig.json
+/Users/cholt/Google Drive/C#/myApp/bin/Debug/net5.0/myApp.runtimeconfig.dev.json
+/Users/cholt/Google Drive/C#/myApp/bin/Debug/net5.0/myApp.dll
+/Users/cholt/Google Drive/C#/myApp/bin/Debug/net5.0/ref/myApp.dll
+/Users/cholt/Google Drive/C#/myApp/bin/Debug/net5.0/myApp.pdb
+/Users/cholt/Google Drive/C#/myApp/obj/Debug/net5.0/myApp.csprojAssemblyReference.cache
+/Users/cholt/Google Drive/C#/myApp/obj/Debug/net5.0/myApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cholt/Google Drive/C#/myApp/obj/Debug/net5.0/myApp.AssemblyInfoInputs.cache
+/Users/cholt/Google Drive/C#/myApp/obj/Debug/net5.0/myApp.AssemblyInfo.cs
+/Users/cholt/Google Drive/C#/myApp/obj/Debug/net5.0/myApp.csproj.CoreCompileInputs.cache
+/Users/cholt/Google Drive/C#/myApp/obj/Debug/net5.0/myApp.dll
+/Users/cholt/Google Drive/C#/myApp/obj/Debug/net5.0/ref/myApp.dll
+/Users/cholt/Google Drive/C#/myApp/obj/Debug/net5.0/myApp.pdb
+/Users/cholt/Google Drive/C#/myApp/obj/Debug/net5.0/myApp.genruntimeconfig.cache
