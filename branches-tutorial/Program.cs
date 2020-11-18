@@ -95,8 +95,19 @@ namespace BranchesAndLoops
         {
             //ExploreIf();
             //ExploreWhileAndDoLoops();
-            ExploreForLoops();
-            
+            //ExploreForLoops();
+
+            // challenge problem:
+
+            int res = 0;
+            for (int num = 1; num < 21; num++)
+            {
+                if (num % 3 == 0)
+                {
+                    res += num;
+                }
+            }
+            Console.WriteLine(res); 
         }
     }
 }
