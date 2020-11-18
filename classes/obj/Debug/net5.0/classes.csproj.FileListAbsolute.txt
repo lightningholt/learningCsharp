@@ -1,0 +1,15 @@
+/Users/cholt/Google Drive/C#/learningCsharp/classes/obj/Debug/net5.0/classes.csprojAssemblyReference.cache
+/Users/cholt/Google Drive/C#/learningCsharp/classes/obj/Debug/net5.0/classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cholt/Google Drive/C#/learningCsharp/classes/obj/Debug/net5.0/classes.AssemblyInfoInputs.cache
+/Users/cholt/Google Drive/C#/learningCsharp/classes/obj/Debug/net5.0/classes.AssemblyInfo.cs
+/Users/cholt/Google Drive/C#/learningCsharp/classes/obj/Debug/net5.0/classes.csproj.CoreCompileInputs.cache
+/Users/cholt/Google Drive/C#/learningCsharp/classes/bin/Debug/net5.0/classes.deps.json
+/Users/cholt/Google Drive/C#/learningCsharp/classes/bin/Debug/net5.0/classes.runtimeconfig.json
+/Users/cholt/Google Drive/C#/learningCsharp/classes/bin/Debug/net5.0/classes.runtimeconfig.dev.json
+/Users/cholt/Google Drive/C#/learningCsharp/classes/bin/Debug/net5.0/classes.dll
+/Users/cholt/Google Drive/C#/learningCsharp/classes/bin/Debug/net5.0/ref/classes.dll
+/Users/cholt/Google Drive/C#/learningCsharp/classes/bin/Debug/net5.0/classes.pdb
+/Users/cholt/Google Drive/C#/learningCsharp/classes/obj/Debug/net5.0/classes.dll
+/Users/cholt/Google Drive/C#/learningCsharp/classes/obj/Debug/net5.0/ref/classes.dll
+/Users/cholt/Google Drive/C#/learningCsharp/classes/obj/Debug/net5.0/classes.pdb
+/Users/cholt/Google Drive/C#/learningCsharp/classes/obj/Debug/net5.0/classes.genruntimeconfig.cache
