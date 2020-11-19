@@ -36,13 +36,23 @@ namespace classes
 
         // each class also needs a constructor which initializes the class
         // constructors have same name as class.
-        public BankAccount(string name, decimal initialBalance) // constructor
+
+        private readonly decimal minimumBalance;
+
+        public BankAccount(string name, decimal initialBalance) : this(name, initialBalance, 0) { }
+
+        public BankAccount(string name, decimal initialBalance, decimal minimumBalance) // constructor
         {
-            this.Owner = name;
-            //this.Balance = initialBalance;
-            MakeDeposit(initialBalance, DateTime.Now, "Initial Balance");
             this.Number = accountNumberSeed.ToString();
             accountNumberSeed++;
+
+            this.Owner = name;
+            this.minimumBalance = minimumBalance;
+
+            //this.Balance = initialBalance;
+            if (initialBalance > 0)
+                MakeDeposit(initialBalance, DateTime.Now, "Initial Balance");
+            
         }
 
         private List<Transaction> allTransactions = new List<Transaction>();
@@ -65,13 +75,32 @@ namespace classes
                 throw new ArgumentOutOfRangeException(nameof(amount), "Amount of withdrawal must be positive");
             }
 
-            if (Balance - amount < 0)
+            var overdraftTransaction = CheckWithdrawalLimit(Balance - amount < minimumBalance);
+            var withdrawal = new Transaction(-amount, date, note);
+            allTransactions.Add(withdrawal);
+            if (overdraftTransaction != null)
+                allTransactions.Add(overdraftTransaction);
+
+            //if (Balance - amount < minimumBalance)
+            //{
+            //    throw new InvalidOperationException("Not sufficient funds for this withdrawal");
+            //}
+
+            //var withdrawal = new Transaction(-amount, date, note);
+            //allTransactions.Add(withdrawal);
+        }
+
+        protected virtual Transaction? CheckWithdrawalLimit(bool isOverdrawn)
+        {
+            if (isOverdrawn)
             {
                 throw new InvalidOperationException("Not sufficient funds for this withdrawal");
             }
+            else
+            {
+                return default;
+            }
 
-            var withdrawal = new Transaction(-amount, date, note);
-            allTransactions.Add(withdrawal);
         }
 
         public string GetAccountHistory()
@@ -88,5 +117,8 @@ namespace classes
 
             return report.ToString();
         }
+
+        // a virtual method is one that may be overridden by a derived class (e.g. GiftCardAccount, InterestEarningAAcount, LineOfCreditAccount)
+        public virtual void PerformMonthEndTransactions() { }
     }
 }
